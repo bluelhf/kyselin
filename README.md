@@ -1,7 +1,7 @@
 # 💭 Kyselin
 Kyselin is a Rust 🦀 command-line tool for studying using self-inflicted quizzes (like Quizlet, but in the terminal 💻)!
 
-Kyselin is heavily inspired by [romeq/kyselija](https://github.com/romeq/kyselija), an awesome Python 🐍 program that achieves the same goal, albeit with a different question format.
+Kyselin is heavily inspired by [romeq/kyselija](https://github.com/romeq/kyselija), an awesome Python 🐍 program that achieves the same goal, albeit with a different question set format.
 
 ## Usage
 With [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) installed:
