@@ -1,3 +1,5 @@
+<img align="right" src="https://user-images.githubusercontent.com/52505120/198114263-80223e83-e86f-4a8a-a4e4-5c45477b443d.png" width="50%" alt="A terminal showcasing the behaviour of Kyselin"/>
+
 # 💭 Kyselin
 Kyselin is a Rust 🦀 command-line tool for studying using self-inflicted quizzes (like Quizlet, but in the terminal 💻)!
 
