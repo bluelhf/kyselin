@@ -10,6 +10,10 @@ With [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) 
 3. Run `cargo run --release`
 4. Profit!
 
+## Default question set
+
+The default question set is from a Finnish 8th grade Swedish word test, as it was what my younger sibling was studying at the time I was writing this program.
+
 ## Changing the question set
 The question set is read from `questions.krs` in the working directory of the executable (if you're following the usage steps, the repository root directory).
 
