@@ -1,17 +1,37 @@
-#: Vastaukset ovat verbien ensimmäiset neljä taivutusmuotoa pilkuilla erotettuina: 'springa, springer, sprang, sprungit'
-Q: puhua
-A: tala\, talar\, talade\, talat
-Q: soittaa
-A: ringa\, ringer\, ringde\, ringt
-Q: ostaa
-A: köpa\, köper\, köpte\, köpt
-Q: asua
-A: bo\, bor\, bodde\, bott
-Q: juoda
-A: dricka\, dricker\, drack\, druckit
-Q: mennä
-A: gå\, går\, gick\, gått
-Q: tehdä
-A: göra\, gör\, gjorde\, gjort
-Q: hymyillä
-A: le\, ler\, log\, lett
+#: The questions are Finnish words. The answers their Swedish translations, represented as the comma-separated first three declinations or declensions of the noun or verb, with the gender of nouns prefixed. For example, the correct answer for 'juosta' is 'springa, springer, sprang', and the correct answer for 'talo' is 'ett hus, huset, hus, husen'. If a verb requires a one-word suffix, it is included for all conjugations, and if more than one word is required, the suffix is given only for the last conjugation, e.g. 'se ut, ser ut, såg ut', but 'tycka, tycker, tyckte synd om någon'.
+Q: kiusata
+A: mobba\, mobbar\, mobbade
+Q: yläkoulu
+A: ett högstadium\, högstadiet\, högstadier\, högstadierna
+Q: kertomus
+A: en berättelse\, berättelsen\, berättelser\, berättelserna
+Q: epävarma
+A: osäker\, osäkert\, osäkra
+Q: hermostunut
+A: nervös\, nervöst\, nervösa
+Q: för
+A: sillä
+Q: omituinen
+A: konstig\, konstigt\, konstiga
+Q: tumma
+A: mörk\, mörkt\, mörka
+Q: onneton
+A: olycklig\, olyckligt\, olyckliga
+Q: viime kesänä
+A: i somras
+Q: kiusaaja
+A: en mobbare\, mobbaren\, mobbare\, mobbarna
+Q: vihainen
+A: arg\, argt\, arga
+Q: hiljainen
+A: tyst\, tyst\, tysta
+Q: vika
+A: ett fel\, felet\, fel\, felen
+Q: ehkä
+A: kanske
+Q: vahva
+A: stark\, starkt\, starka
+Q: erityinen
+A: speciell\, speciellt\, speciella
+Q: ihminen
+A: en människa\, människan\, människor\, människorna
